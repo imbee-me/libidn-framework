@@ -24,7 +24,7 @@ Also included is a command line tool, several self tests, code examples, and mor
   s.source = { :git => 'https://github.com/chrisballinger/libidn-podspec.git',
                :tag => s.version }
 
-  s.ios.deployment_target = "8.0"
+  s.ios.deployment_target = "9.0"
   s.osx.deployment_target = "10.9"
   s.tvos.deployment_target = '9.0'
   s.watchos.deployment_target = '2.0'
